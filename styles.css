@@ -1,0 +1,25 @@
+/*#form1 {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-rows: 3, 40px;
+    justify-items: center;
+    align-items: center;
+    gap: 20px;
+}
+*/
+p {
+
+}
+
+input[type="text"] {
+    border: solid pink 2px;
+    font-size: 1.5rem;
+    
+}
+
+
+
+
+button {
+    display: inline;
+}
